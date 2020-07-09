@@ -1,0 +1,36 @@
+Single cam / disc - this cam has lobes only on its lower part. They serve to move the needle between left and right stich positions
+1. disc_thickness = 7mm;
+
+Double cam / disc - this cam has lobes on the upper half of its height in addition to the lower part. They serve to move the cloth forwards and  backwards
+1. double_disc_thickness = 9mm;
+
+
+Common to both single and  double cam / disc - many of these align with the cam holder mechanism in the sewing machine
+
+1. thickest_cyl_rad = 17mm - radius of the thickest cam cylinder. This is the basic cylinder on whose circumference the lobes will sit on. 
+2. lobe_thickness = 4.5mm - height / thickness of each lobe that sits on the circumference of the basic cam cylinder.
+3. inner_hole_rad = 8.25mm - radius of the inner hole in the cam cylinder. This hole is cut to make the cam go on the cam holder shaft.
+4. hole_bigger_rad = 9.5mm - radius of the lower part of the inner hole in the cam cylinder. It is slightly bigger.
+5. bigger_hole_ht = 1.5mm - height of the lower part of the inner hole in the cam cylinder. It is slightly bigger.
+6. cut_errors = 0.1;
+7. hole_cone_ht = 1.5;
+8. skirting = 0;
+
+
+Transport hole - this aligns the cam to the pin in the cam holder mechanism. It is made as a cuboid.
+
+9. gap_to_transporthole = 1; distance of the transport hole from the edge of the bigger inner hole
+10. transporthole_width = 3;
+11. transporthole_depth = 5.5;
+12. transporthole_length  = 4;
+
+
+Letters on the cam
+1. Font type
+2. Font size
+2. Depth 
+
+
+
+Considerations when a cam rotates in the sewing machine
+1. Each rotation of the cam / cam holder shaft makes 18 stiches
