@@ -22,3 +22,10 @@ The below are in German
 ## Software requirements
 
 1. **_OpenSCAD_** from https://www.openscad.org/downloads.html
+
+## Details & Dimensions
+1. Refer https://github.com/ln-komandur/elna-cam-discs/blob/master/Elna%20Cam%20Dimensions.md
+
+## Output
+
+![5 cams printed from 1 print job](https://github.com/ln-komandur/elna-cam-discs/blob/master/5%20Cams%20-%20Print%20Job%20Completed.jpg)
